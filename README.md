@@ -1,4 +1,4 @@
-# 「生まれ」と「育ち」の数理（第3.4版）
+# 「生まれ」と「育ち」の数理（第3.5版）
 
 進化・脳・AIが別々の名前で解いてきた一つの問い。書籍原稿のHTML版と、付録Eの再現コードです。
 
@@ -8,6 +8,7 @@
 ### リポジトリ構成
 - `index.html` … 本文（GitHub Pages で公開中）
 - `images/` … 図
+- `CHANGELOG.md` … 改版の記録
 - `code/` … 付録E のコード（Python 3 + numpy、E6 は scipy も）。`python3 code/E1_kalman_gain.py` のように実行
 
 ---
