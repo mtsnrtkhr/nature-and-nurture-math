@@ -2,7 +2,11 @@
 
 進化・脳・AIが別々の名前で解いてきた一つの問い。書籍原稿のHTML版と、付録Eの再現コードです。
 
-- `index.html` … 本文（GitHub Pages で公開）
+### 📖 Web版の閲覧
+👉 **[「生まれ」と「育ち」の数理 ―― 進化・脳・AIが別々の名前で解いてきた一つの問い](https://mtsnrtkhr.github.io/nature-and-nurture-math/)**
+
+### リポジトリ構成
+- `index.html` … 本文（GitHub Pages で公開中）
 - `images/` … 図
 - `code/` … 付録E のコード（Python 3 + numpy、E6 は scipy も）。`python3 code/E1_kalman_gain.py` のように実行
 
