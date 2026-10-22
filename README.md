@@ -10,7 +10,7 @@
 - `images/` … 図
 - `CHANGELOG.md` … 改版の記録
 - `code/` … 付録E のコード（Python 3 + numpy、E6 と E4 の一部は scipy も）。`python3 code/E1_kalman_gain.py` のように実行
-- `archive/` … 過去の版（`v3.6/` は本文・図・コードの一式、`v4.0/`・`v4.1/` は本文）。各版は Git のタグ（`v3.6`、`v4.2` など）と GitHub の Releases からも取り出せます
+- `archive/` … 各版の保管（`v3.6/`・`v4.2/` は本文・図・コードの一式、`v4.0/`・`v4.1/` は本文）。`v3.6`・`v4.2` は Git のタグと GitHub の Releases からも取り出せます
 
 ---
 
